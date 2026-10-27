@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
 
 #Shrift {
-    color: #3d3d3d;
+    color: #b3b3b3;
     font-size: 18px;
     font-family: "Inter", sans-serif;
 
@@ -12,40 +12,37 @@
 }
 
 #body {
-    min-height: 100vh;
-    min-height: 100vh;
 
-    background-color: #000;
-    background-image: url('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ffs.tonkosti.ru%2F32%2Fzm%2F32zmkcjq67s4o888sooo48448.jpg&f=1&nofb=1&ipt=05a82b7c63635de71e99c9d24aefc38f963db8a040a0071c60b4ed9fd410f7e6&ipo=images');
-    background-repeat: no-repeat;
-    background-size: cover;
+
+    background-color: #121212;
+
 }
 
 a {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    box-sizing: border-box;
-    width: 120px;
-    min-height: 32px;
-    padding: 5px 8px;
-    opacity: 0.7;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  width: 120px;
+  min-height: 32px;
+  padding: 5px 8px;
+  opacity: 0.7;
 
-    text-align: center;
-    text-decoration: none;
-    background-color: transparent;
-    color: black;
+  text-align: center;
+  text-decoration: none;
+  background-color: transparent;
+  color: #b3b3b3;
 
 
-    transition: background-color 150ms ease, transform 100ms ease;
+  transition: background-color 150ms ease, transform 100ms ease;
 }
 
 a:hover {
-    background-color: transparent;
-    transform: scale(0.97)
+  background-color: transparent;
+  transform: scale(0.97)
 }
 
 a:active {
-    background-color: transparent;
-    transform: scale(0.93);
+  background-color: transparent;
+  transform: scale(0.93);
 }
