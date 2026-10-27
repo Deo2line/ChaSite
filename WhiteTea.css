@@ -11,6 +11,15 @@ nav {
     line-height: 15px;
 }
 
+body {
+    min-height: 100vh;
+    min-height: 100vh;
+
+    background-color: #121212;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 a {
   display: flex;
   align-items: center;
@@ -40,13 +49,4 @@ a:active {
   transform: scale(0.93);
 }
 
-html,
-body {
-    min-height: 100%;
-    background: #121212 !important;
-}
-
-body {
-    min-height: 100vh;
-}
 
