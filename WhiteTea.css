@@ -11,13 +11,9 @@ nav {
     line-height: 15px;
 }
 
-body {
-    min-height: 100vh;
-    min-height: 100vh;
-
+body.white-tea {
     background-color: #121212;
-    background-repeat: no-repeat;
-    background-size: cover;
+    color: #b3b3b3;
 }
 
 a {
