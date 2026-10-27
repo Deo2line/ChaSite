@@ -40,6 +40,13 @@ a:active {
   transform: scale(0.93);
 }
 
+html,
 body {
-    background-color: #121212;
+    min-height: 100%;
+    background: #121212 !important;
 }
+
+body {
+    min-height: 100vh;
+}
+
