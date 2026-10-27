@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
 
-.ShriftAndIMG {
+body {
     color: #b3b3b3;
     font-size: 18px;
     font-family: "Inter", sans-serif;
@@ -11,7 +11,7 @@
     line-height: 15px;
 }
 
-.ShriftAndIMG {
+body {
 
 
     background-color: #121212;
