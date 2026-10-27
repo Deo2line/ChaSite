@@ -11,8 +11,6 @@ nav {
     line-height: 15px;
 }
 
-
-
 a {
   display: flex;
   align-items: center;
@@ -40,4 +38,8 @@ a:hover {
 a:active {
   background-color: transparent;
   transform: scale(0.93);
+}
+
+body {
+    background-color: #121212;
 }
