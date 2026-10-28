@@ -12,10 +12,11 @@
 }
 
 #body {
-
-
-    background-color: #121212;
-
+    min-height: 100vh;
+    background-color: #000000;
+    background-image: url('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ffs.tonkosti.ru%2F32%2Fzm%2F32zmkcjq67s4o888sooo48448.jpg&f=1&nofb=1&ipt=05a82b7c63635de71e99c9d24aefc38f963db8a040a0071c60b4ed9fd410f7e6&ipo=images');
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 a {
