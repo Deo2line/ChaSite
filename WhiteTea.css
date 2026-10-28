@@ -11,9 +11,14 @@ nav {
     line-height: 15px;
 }
 
-body.white-tea {
-    background-color: #121212;
-    color: #b3b3b3;
+html {
+   background: #121212
+}
+
+body {
+    margin 0;
+    min-height: 100vh;
+    background: #121212
 }
 
 a {
