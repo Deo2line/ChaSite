@@ -54,13 +54,10 @@ a {
 footer a {
     text-decoration: underline;
     position: absolute;
-    left: 500px;
-    top: 650px;
+    left: 300px;
+    top: 590px;
 }
 
 footer {
   border-top: 0.45px solid #ccc;
 }
-
-
-
