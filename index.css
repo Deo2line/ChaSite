@@ -53,5 +53,9 @@ footer a {
   top: 630px;
 }
 
+footer {
+  border-top: 1px solid #ccc;
+}
+
 
 
