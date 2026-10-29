@@ -49,7 +49,13 @@ a:active {
 
 footer a {
   position: absolute;
-  left: 30px;
-  top: 650px;
+  left: 20px;
+  top: 630px;
+}
+
+footer {
+  position: relative;
+  width: 500px;
+  height: 600px;
 }
 
