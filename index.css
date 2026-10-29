@@ -54,8 +54,8 @@ a {
 footer a {
     text-decoration: underline;
     position: absolute;
-    left: 200px;
-    top: 580px;
+    text-align: center;
+    top: 550px;
 }
 
 footer {
