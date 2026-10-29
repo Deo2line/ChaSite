@@ -50,6 +50,6 @@ a:active {
   transform: scale(0.93);
 }
 
-p {
+p, li {
   line-height: 24px;
 }
