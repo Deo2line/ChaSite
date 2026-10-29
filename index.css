@@ -47,9 +47,9 @@ a:active {
   transform: scale(0.93);
 }
 
-footer {
-  position: relative;
-  width: 100px;
-  height: 200px;
+footer a {
+  position: absolute;
+  left: 40px;
+  top: 30px;
 }
 
