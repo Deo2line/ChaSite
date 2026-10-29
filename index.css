@@ -47,6 +47,10 @@ a:active {
   transform: scale(0.93);
 }
 
+a {
+    white-space: nowrap;
+}
+
 footer a {
     text-decoration: underline;
     position: absolute;
