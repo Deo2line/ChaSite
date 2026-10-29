@@ -49,3 +49,8 @@ a:active {
   background-color: transparent;
   transform: scale(0.93);
 }
+
+body {
+  line-height: 1.5;
+}
+
