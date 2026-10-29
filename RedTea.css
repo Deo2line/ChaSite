@@ -49,3 +49,19 @@ a:active {
   background-color: transparent;
   transform: scale(0.93);
 }
+
+p, li {
+  line-height: 24px;
+}
+
+header {
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  padding: 0.75rem 1rem;
+  background: #111;
+  border-bottom: 3px solid #777; /* полоса-разделитель */
+}
