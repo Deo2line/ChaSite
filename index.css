@@ -47,3 +47,9 @@ a:active {
   transform: scale(0.93);
 }
 
+footer {
+  position: relative;
+  width: 500px;
+  height: 180px;
+}
+
