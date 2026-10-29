@@ -48,9 +48,10 @@ a:active {
 }
 
 footer a {
-  position: absolute;
-  left: 20px;
-  top: 630px;
+    text-decoration: underline;
+    position: absolute;
+    left: 20px;
+    top: 630px;
 }
 
 footer {
