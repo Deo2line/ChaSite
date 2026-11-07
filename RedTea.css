@@ -65,3 +65,11 @@ header {
   background: #111;
   border-bottom: 3px solid #777; /* полоса-разделитель */
 }
+
+h1, p {
+  text-transform: none;
+}
+
+p {
+  margin: 0 0 0.5em;
+}
