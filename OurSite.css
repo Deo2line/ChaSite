@@ -65,3 +65,7 @@ header {
   background: #111;
   border-bottom: 3px solid #777; 
 }
+
+h2 {
+    width: 500;
+}
