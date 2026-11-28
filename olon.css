@@ -18,7 +18,7 @@ html {
 body {
     margin 0;
     min-height: 100vh;
-    background: #121212
+    background: #121212;
 }
 
 a {
@@ -34,7 +34,7 @@ a {
   text-align: center;
   text-decoration: none;
   background-color: transparent;
-  color: #b3b3b3;
+  color: #e6e6e6;
 
 
   transition: background-color 150ms ease, transform 100ms ease;
